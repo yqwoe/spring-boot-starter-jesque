@@ -43,8 +43,3 @@ elif [ $arg = 'release' ] || [ $arg = 'r' ];then
 else
   echo 'argument should be snapshot(s for short) or release(r for short). like: `sh deploy.sh snapshot` or `sh deploy.sh s`'
 fi
----------------------
-作者：一灰灰blog
-来源：CSDN
-原文：https://blog.csdn.net/liuyueyi25/article/details/79317614
-版权声明：本文为博主原创文章，转载请附上博文链接！
